@@ -4,10 +4,10 @@ layout: base
 
 <section id="post">
 	<header>
-		{{ page.date | date: "%B %e, %Y" }}
+		Posted on {{ page.date | date: "%B %e, %Y" }}
 	</header>
 	<article>
-		<h2>{{ page.title }}</h2>
+		<h2 class="post_title">{{ page.title }}</h2>
 		{{ content }}
 	</article>
 </section>
