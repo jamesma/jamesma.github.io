@@ -11,7 +11,8 @@
 	    <link type="text/css" rel="stylesheet" href="/assets/css/base.css" />
     </head>
     <body>
-    	<aside>
+    	<section id="sidebar">
+    		<h1>James Ma</h1>
     		<nav>
     			<ul>
     				<li><a href="/">Home</a></li>
@@ -19,10 +20,33 @@
     				<li><a href="/resume/jamesma_resume.pdf">Resume</a></li>
     			</ul>
     		</nav>
-    	</aside>
+    	</section>
 
-    	<section class="posts">
+    	<section id="posts">
+    		<header>
+    			{% if site.posts.first %}
+    				{{ site.posts.first.date | date: "%B %e, %Y" }}
+    			{% else %}
+    				Welcome!
+    			{% endif %}
+    		</header>
     		{{ content }}
+    		<footer>
+    			{% if paginator.previous_page %}
+	    			<span class="prev">
+	    				{% if paginator.previous_page == 1 %}
+	    					<a href="/">Newer posts</a>
+	    				{% else %}
+	    					<a href="/pages{{paginator.previous_page}}/">Newer posts</a>
+	    				{% endif %}
+	    			</span>
+	    		{% endif %}
+	    		{% if paginator.next_page %}
+	    			<span class="next" style="float: right;">
+	    				<a href="/pages{{paginator.next_page}}/">Older posts</a>
+	    			</span>
+	    		{% endif %}
+    		</footer>
     	</section>
     </body>
 </html>
