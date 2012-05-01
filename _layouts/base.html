@@ -1,11 +1,28 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
     <head>
-        <title>{{; page.title }}</title>
+    	<title>
+	    	{% if page.title %}
+	    	{{page.title}} | James Ma
+	    	{% else %}
+	    	James Ma
+	    	{% endif %}
+	    </title>
+	    <link type="text/css" rel="stylesheet" href="assets/css/base.css" />
     </head>
     <body>
-        <div class="container">  
-            {{ content }}
-        </div>
+    	<aside>
+    		<nav>
+    			<ul>
+    				<li><a href="/">Home</a></li>
+    				<li><a href="/">About</a></li>
+    				<li><a href="/">Resume</a></li>
+    			</ul>
+    		</nav>
+    	</aside>
+
+    	<section class="posts">
+    		{{ content }}
+    	</section>
     </body>
 </html>
