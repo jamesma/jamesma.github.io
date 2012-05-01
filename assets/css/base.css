@@ -47,9 +47,14 @@ section#posts {
 	min-height: 800px;
 }
 
-section#posts header {
+header {
 	padding: 40px;
 	padding-left: 50px;
+}
+
+footer {
+	border-top: 1px solid #E2E2E2;
+	padding: 40px 50px;
 }
 
 article {
