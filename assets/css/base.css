@@ -4,7 +4,16 @@
 }
 
 body {
-	font-family: Helvetica, Arial, Geneva, sans-serif;
+	font-family: 'Droid Serif', serif;
+	font-size: 15px;
+	line-height: 1.25;
+}
+
+p {
+	font-size: 15px;
+	line-height: 25px;
+	margin-top: 25px;
+	margin-bottom: 20px;
 }
 
 section#sidebar {
@@ -18,7 +27,11 @@ section#sidebar {
 }
 
 section#sidebar h1 {
-	padding-left: 40px;
+	padding-left: 20px;
+	font-size: 34px;
+	line-height: 25px;
+	margin-top: 25px;
+	margin-bottom: 20px;
 }
 
 nav {
@@ -29,7 +42,7 @@ nav ul {
 	border-top: 1px solid #E2E2E2;
 }
 
-nav ul li a, a:visited, a:hover, a:active {
+a, a:visited, a:hover, a:active {
 	color: black;
 	text-decoration: none;
 }
@@ -47,6 +60,13 @@ section#posts {
 	min-height: 800px;
 }
 
+section#post {
+	margin-left: 260px;
+	border-left: 1px solid #E2E2E2;
+	min-width: 700px;
+	min-height: 800px;
+}
+
 header {
 	padding: 40px;
 	padding-left: 50px;
@@ -54,7 +74,12 @@ header {
 
 footer {
 	border-top: 1px solid #E2E2E2;
-	padding: 40px 50px;
+	padding: 40px;
+	padding-bottom: 60px;
+}
+
+footer a {
+	padding: 40px;
 }
 
 article {
@@ -62,3 +87,8 @@ article {
 	padding-left: 50px;
 	border-top: 1px solid #E2E2E2;
 }
+
+article p, article h2 {
+	max-width: 550px;
+}
+
