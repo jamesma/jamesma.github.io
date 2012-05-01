@@ -1,3 +1,4 @@
-pygments:     true
-markdown:     rdiscount
-permalink:    date
+pygments: true
+markdown: rdiscount
+permalink: date
+paginate: 5
