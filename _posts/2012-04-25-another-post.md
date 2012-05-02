@@ -9,7 +9,7 @@ This is just another post! Keep coming back to check on updates!
 
 Random text random text Random text random text Randoasdasdasdm text random text Randoasdasdm text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random teasdasdasdxt Random text random text
 
-<img src="/assets/images/food.jpg" />
+<img src="/assets/images/food.jpg" alt="food" />
 
 <strong>1) </strong>Blah blah blah
 
