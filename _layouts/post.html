@@ -2,12 +2,15 @@
 layout: base
 ---
 
-<section id="post">
+<section id="main">
 	<header>
-		Posted on {{ page.date | date: "%B %e, %Y" }}
+		<b>Posted on {{ page.date | date: "%B %e, %Y" }}</b>
 	</header>
 	<article>
 		<h2 class="post_title">{{ page.title }}</h2>
 		{{ content }}
 	</article>
+	<footer>
+		<a class="continue" href="/">Back to blog</a>
+	</footer>
 </section>
