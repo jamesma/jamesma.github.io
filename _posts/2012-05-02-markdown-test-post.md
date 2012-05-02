@@ -1,3 +1,6 @@
+---
+layout: post
+---
 
 What this post is talking about
 -------------------------------
@@ -34,5 +37,5 @@ Some inspiring text about stuff you'll read nowadays on the news. Hahaha. Random
 
 
 [James Ma]:		http://jamesma.info
-[John Gruber]:	http://darlingfireball.net
+[John Gruber]:	http://daringfireball.net/
 [food]:			/assets/images/food.jpg
