@@ -36,6 +36,6 @@ Some inspiring text about stuff you'll read nowadays on the news. Hahaha. Random
 > Second sentence that is quoted.
 
 
-[James Ma]:		http://jamesma.info
-[John Gruber]:	http://daringfireball.net/
-[food]:			/assets/images/food.jpg
+[James Ma]:		http://jamesma.info 				"Personal website"
+[John Gruber]:	http://daringfireball.net/			"Daring Fireball"
+[food]:			/assets/images/food.jpg 			"Mmmhh Food!"
