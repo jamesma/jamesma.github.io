@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	font-family: 'adelle', Helvetica, Arial, sans-serif;
+	font-family: "proxima-nova", Helvetica, Arial, sans-serif;
 	font-size: 15px;
 	color: #4D4D4D;
 	line-height: 25px;
@@ -26,6 +26,7 @@ a:hover {
 }
 
 section#sidebar {
+	font-family: 'adelle', Helvetica, Arial, sans-serif;
 	position: fixed;
 	/*float: left;*/
 	width: 260px;
@@ -39,7 +40,7 @@ section#sidebar h1 {
 	text-align: center;
 	margin-top: 30px;
 	margin-bottom: 20px;
-	font-size: 24px;
+	font-size: 26px;
 	font-weight: 800;
 }
 
@@ -139,6 +140,7 @@ article, section, header, footer {
 }
 
 article h1, article h2, article h3, article h4, article h5, article h6 {
+	font-family: 'adelle', Helvetica, Arial, sans-serif;
 	color: #3A3A3A;
 	margin-top: 30px;
 	margin-bottom: 30px;
