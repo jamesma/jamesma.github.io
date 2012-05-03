@@ -19,7 +19,7 @@ Some inspiring text about stuff you'll read nowadays on the news. Hahaha. Random
 * What a cool sentence.
 * Really? You're still reading?
 
-Motivation <a id="motivation" />
+Motivation <a id="motivation"></a>
 ----------
 
 [James Ma][] is my personal website. I am very intrigued by [John Gruber][]'s creation of Markdown.
