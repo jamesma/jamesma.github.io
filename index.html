@@ -4,11 +4,7 @@ layout: base
 
 <section id="main">
 	<header>
-		{% if site.posts.first %}
-			<b>Last updated on {{ site.posts.first.date | date: "%B %e, %Y" }}</b>
-		{% else %}
-			<b>Welcome!</b>
-		{% endif %}
+		<b>Last updated on {{ site.time | date: "%B %e, %Y" }}</b>
 	</header>
 	{% for post in paginator.posts %}
 		<article>
@@ -18,7 +14,7 @@ layout: base
 	{% endfor %}
 	<footer>
 		{% if paginator.previous_page %}
-			<span class="prev">
+			<span>
 				{% if paginator.previous_page == 1 %}
 					<a class="continue" href="/">Newer posts</a>
 				{% else %}
@@ -27,7 +23,7 @@ layout: base
 			</span>
 		{% endif %}
 		{% if paginator.next_page %}
-			<span class="next" style="float: right;">
+			<span style="float: right;">
 				<a class="continue" href="/page{{paginator.next_page}}/">Older posts</a>
 			</span>
 		{% endif %}
