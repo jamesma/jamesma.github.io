@@ -240,7 +240,7 @@ article hr {
 }
 
 /* iPads (landscape) ---------- */
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
 	#profile_pic {
 		position: relative;
 		margin: 0 auto;
