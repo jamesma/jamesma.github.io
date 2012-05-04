@@ -278,6 +278,8 @@ article hr {
 		min-width: 0;
 		background-color: white;
 		position: relative;
+		left: auto;
+		right: auto;
 	}
 
 	header {
