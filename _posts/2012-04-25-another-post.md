@@ -10,7 +10,7 @@ Subheading
 
 Random text random text Random text random text Randoasdasdasdm text random text Randoasdasdm text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random text Random text random teasdasdasdxt Random text random text
 
-<img src="/assets/images/food.jpg" alt="food" />
+<img src="/assets/images/food.jpg" height="960" width="555" alt="Picture" title="Mmmmhm Food!" />
 
 1. Blah blah blah
 
