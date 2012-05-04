@@ -261,10 +261,15 @@ article hr {
 		right: auto;
 		min-height: 0;
 		display: block;
-		width: 400px;
+		width: auto;
 		clear: both;
 		height: auto;
 		min-height: auto;
+	}
+
+	section#sidebar {
+		margin-left: 100px;
+		margin-right: 100px;
 	}
 
 	section#main {
