@@ -289,13 +289,7 @@ article hr {
 		margin-bottom: 20px;
 	}
 
-	article * {
-		margin-left: 150px;
-		margin-right: 150px;
-	}
-
 	article code {
-		max-width: 400px;
 		display: inline;
 	}
 
