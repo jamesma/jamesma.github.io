@@ -13,7 +13,7 @@ I am writing this post to test my markdown language. Cool stuff! Random text is 
 
 Some inspiring text about stuff you'll read nowadays on the news. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. 
 
-![Screenshot of me trying to eat food][food]
+<img src="/assets/images/food.jpg" height="960" width="555" title="Mmmmhm Food!" />
 
 * Just another sentence.
 * What a cool sentence.
@@ -38,4 +38,3 @@ Some inspiring text about stuff you'll read nowadays on the news. Hahaha. Random
 
 [James Ma]:		http://jamesma.info 				"Personal website"
 [John Gruber]:	http://daringfireball.net/			"Daring Fireball"
-[food]:			/assets/images/food.jpg 			"Mmmhh Food!"
