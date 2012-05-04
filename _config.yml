@@ -1,7 +1,7 @@
 pygments: true
 markdown: rdiscount
-paginate: 5
 permalink: pretty
+paginate: 5
 
-#server: true
-#auto: true
+server: true
+auto: true
