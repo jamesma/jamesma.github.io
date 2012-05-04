@@ -109,7 +109,11 @@ article * {
 	max-width: 600px;
 }
 
-footer a.continue {
+.older_button {
+	float: right;
+}
+
+footer a.page_button {
 	padding: 15px;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -123,7 +127,7 @@ footer a.continue {
 	background-color: #000;
 }
 
-footer a.continue:hover {
+footer a.page_button:hover {
 	background-color: #04BFBF;
 }
 
@@ -372,5 +376,18 @@ article hr {
 		margin: 0;
 		min-width: 0;
 		max-width: 100%;
+	}
+
+	footer a.page_button {
+		display: block;
+		margin: 10px 0;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+		max-width: 150px;
+	}
+
+	.older_button {
+		float: none;
 	}
 }

@@ -16,15 +16,15 @@ layout: base
 		{% if paginator.previous_page %}
 			<span>
 				{% if paginator.previous_page == 1 %}
-					<a class="continue" href="/">Newer posts</a>
+					<a class="page_button" href="/">Newer posts</a>
 				{% else %}
-					<a class="continue" href="/page{{paginator.previous_page}}/">Newer posts</a>
+					<a class="page_button" href="/page{{paginator.previous_page}}/">Newer posts</a>
 				{% endif %}
 			</span>
 		{% endif %}
 		{% if paginator.next_page %}
-			<span style="float: right;">
-				<a class="continue" href="/page{{paginator.next_page}}/">Older posts</a>
+			<span class="older_button">
+				<a class="page_button" href="/page{{paginator.next_page}}/">Older posts</a>
 			</span>
 		{% endif %}
 	</footer>
