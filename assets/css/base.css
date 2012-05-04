@@ -248,6 +248,10 @@ article hr {
 		margin-top: 20px;
 	}
 
+	.last_nav {
+		border-bottom: none;
+	}
+
 	section#sidebar {
 		position: relative;
 		top: auto;
@@ -279,7 +283,7 @@ article hr {
 		margin-bottom: 20px;
 	}
 
-	article pre {
+	article code {
 		width: 100%;
 		display: block;
 		height: auto;
@@ -288,9 +292,13 @@ article hr {
 		max-width: 100%;
 	}
 
-	article p, article h1, article p {
+	article h1, article h2, article h3 {
 		border: none;
 		line-height: 40px;
+	}
+
+	article p {
+		line-height: 30px;
 	}
 
 	article img {
