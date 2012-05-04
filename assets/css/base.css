@@ -98,11 +98,6 @@ header {
 footer {
 	border-top: 1px solid #E2E2E2;
 	padding: 50px;
-	padding-bottom: 80px;
-}
-
-footer a {
-	margin-right: 50px;
 }
 
 article {
@@ -124,7 +119,6 @@ footer a.continue {
 	color: white;
 	font-size: 17px;
 	line-height: 17px;
-	margin-bottom: 25px;
 	display: inline-block;
 	background-color: #000;
 }
