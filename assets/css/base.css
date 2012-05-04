@@ -273,8 +273,7 @@ article hr {
 	}
 
 	section#main {
-		margin-left: 150px;
-		margin-right: 150px;
+		margin: 0;
 		border: 0;
 		min-width: 0;
 		background-color: white;
@@ -288,6 +287,8 @@ article hr {
 	article {
 		padding: 20px;
 		margin-bottom: 20px;
+		margin-left: 150px;
+		margin-right: 150px;
 	}
 
 	article code {
