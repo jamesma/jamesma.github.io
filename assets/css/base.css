@@ -268,18 +268,17 @@ article hr {
 	}
 
 	section#sidebar {
-		margin-left: 100px;
-		margin-right: 100px;
+		margin-left: 120px;
+		margin-right: 120px;
 	}
 
 	section#main {
-		margin: 0;
+		margin-left: 150px;
+		margin-right: 150px;
 		border: 0;
 		min-width: 0;
 		background-color: white;
 		position: relative;
-		left: auto;
-		right: auto;
 	}
 
 	header {
