@@ -238,3 +238,67 @@ article hr {
 	color: #fff;
 	text-shadow: none;
 }
+
+@media screen and (max-width:480px) {
+	#profile_pic {
+		position: relative;
+		margin: 0 auto;
+		left: auto;
+		top: auto;
+		margin-top: 20px;
+	}
+
+	section#sidebar {
+		position: relative;
+		top: auto;
+		left: auto;
+		bottom: auto;
+		right: auto;
+		min-height: 0;
+		display: block;
+		width: auto;
+		clear: both;
+		height: auto;
+		min-height: auto;
+	}
+
+	section#main {
+		margin: 0;
+		border: 0;
+		min-width: 0;
+		background-color: white;
+		position: relative;
+	}
+
+	header {
+		display: none;
+	}
+
+	article {
+		padding: 20px;
+		margin-bottom: 20px;
+	}
+
+	article pre {
+		width: 100%;
+		display: block;
+		height: auto;
+		margin: 0;
+		min-width: 0;
+		max-width: 100%;
+	}
+
+	article p, article h1, article p {
+		border: none;
+		line-height: 40px;
+	}
+
+	article img {
+		width: 100%;
+		display: block;
+		height: auto;
+		margin: 0;
+		min-width: 0;
+		max-width: 100%;
+	}
+}
