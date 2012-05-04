@@ -175,16 +175,26 @@ article code {
 	color: black;
 	border: 1px solid #D2D2D2;
 	background-color: #F8F8F8;
-	border-radius: 0px;
-	-moz-border-radius: 0px;
-	-webkit-border-radius: 0px;
-	padding-left: 5px;
-	padding-right: 5px;
-	padding-top: 5px;
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-top: 3px;
 	padding-bottom: 1px;
-	margin-left: 5px;
-	margin-right: 5px;
-	display: inline;
+	margin-left: 1px;
+	margin-right: 1px;
+}
+
+article pre {
+	margin-left: 15px;
+	overflow: auto;
+	background-color: #F8F8F8;
+	border: 1px solid #D2D2D2;
+	padding: 0 10px;
+}
+
+article pre code {
+	border: 0;
+	margin: 0;
+	padding: 0;
 }
 
 article .post_title > a {
@@ -209,10 +219,6 @@ article img {
 	margin-top: 20px;
 	margin-bottom: 15px;
 	margin-left: -50px;
-}
-
-article pre {
-	margin-left: 15px;
 }
 
 article ul, article ol {

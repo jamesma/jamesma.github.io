@@ -24,11 +24,11 @@ Motivation <a id="motivation"></a>
 
 [James Ma][] is my personal website. I am very intrigued by [John Gruber][]'s creation of Markdown.
 
-	Here's a snippet of code. ls -al help github blah blah.
+	tell application "Foo" random text random text
+		beep beep
+	end tell
 
-Some inspiring text about stuff you'll read nowadays on the news. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. 
-
-`coding programming ruby perl ls -al rm -rf random man pages github`
+Some inspiring text `code here` about stuff you'll read `code` nowadays `code` on the news. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah.
 
 ---
 
