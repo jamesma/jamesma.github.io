@@ -28,6 +28,8 @@ Motivation <a id="motivation"></a>
 
 Some inspiring text about stuff you'll read nowadays on the news. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. 
 
+`coding programming ruby perl ls -al rm -rf random man pages github`
+
 ---
 
 Some inspiring text about stuff you'll read nowadays on the news. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. Hahaha. Random text goes here, ipsum dorem ipsum dorem blah blah. 

@@ -239,7 +239,8 @@ article hr {
 	text-shadow: none;
 }
 
-@media screen and (max-width:480px) {
+/* iPads (landscape) ---------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
 	#profile_pic {
 		position: relative;
 		margin: 0 auto;
@@ -284,6 +285,20 @@ article hr {
 	}
 
 	article code {
+		max-width: 400px;
+		display: inline;
+	}
+
+	article h1, article h2, article h3 {
+		border: 0;
+		line-height: 40px;
+	}
+
+	article p {
+		line-height: 30px;
+	}
+
+	article img {
 		width: 100%;
 		display: block;
 		height: auto;
@@ -291,9 +306,60 @@ article hr {
 		min-width: 0;
 		max-width: 100%;
 	}
+}
+
+/* Smartphones (portrait and landscape) ---------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	#profile_pic {
+		position: relative;
+		margin: 0 auto;
+		left: auto;
+		top: auto;
+		margin-top: 20px;
+	}
+
+	.last_nav {
+		border-bottom: none;
+	}
+
+	section#sidebar {
+		position: relative;
+		top: auto;
+		left: auto;
+		bottom: auto;
+		right: auto;
+		min-height: 0;
+		display: block;
+		width: auto;
+		clear: both;
+		height: auto;
+		min-height: auto;
+	}
+
+	section#main {
+		margin: 0;
+		border: 0;
+		min-width: 0;
+		background-color: white;
+		position: relative;
+	}
+
+	header {
+		display: none;
+	}
+
+	article {
+		padding: 20px;
+		margin-bottom: 20px;
+	}
+
+	article code {
+		max-width: 400px;
+		display: inline;
+	}
 
 	article h1, article h2, article h3 {
-		border: none;
+		border: 0;
 		line-height: 40px;
 	}
 
