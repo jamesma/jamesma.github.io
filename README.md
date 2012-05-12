@@ -3,7 +3,7 @@ jamesma.github.com
 
 My personal website, hosted with Jekyll on GitHub pages.
 
-This website design is inspired by the [Svbtle][] network by [dcurtis][].
+This website design is inspired by the [Svbtle][] network by [Dustin Curtis][].
 
 [Svbtle]:					http://svbtle.com/				"Svbtle"
-[dcurtis]:					http://dcurt.is/				"Dustin Curtis"
+[Dustin Curtis]:			http://dcurt.is/				"Dustin Curtis"
