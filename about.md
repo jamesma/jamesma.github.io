@@ -5,7 +5,7 @@ layout: about
 About Me
 ========
 
-I study Computer Science at Purdue University with a concentration in Software Engineering. I indulge myself with Mobile and Web application development. This summer, I'm doing an internship at [Amazon] as a Software Developer.
+I study Computer Science at Purdue University with a concentration in Software Engineering. I indulge myself in Mobile and Web application development. This summer, I'll be interning at [Amazon] as a Software Developer.
 
 You can find me on [Twitter][], [Linkedin][] and [GitHub][]. You can [download my resume][] or check out what I've been up to below.
 
