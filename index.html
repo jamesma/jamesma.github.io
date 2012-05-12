@@ -4,7 +4,7 @@ layout: base
 
 <section id="main">
 	<header>
-		<b>Last updated on {{ site.time | date: "%B %e, %Y" }}</b>
+		<b>Last updated on {{ site.posts.first.date | date: "%B %e, %Y" }}</b>
 	</header>
 	{% for post in paginator.posts %}
 		<article>
