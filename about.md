@@ -5,11 +5,15 @@ layout: about
 About Me
 ========
 
-I study Computer Science at Purdue University with a concentration in Software Engineering. I indulge myself in Mobile and Web application development. This summer, I'll be interning at [Amazon] as a Software Developer.
+I study Computer Science at Purdue University with a concentration in Software Engineering. I indulge myself in Mobile and Web application development.
 
 You can find me on [Twitter][], [Linkedin][] and [GitHub][]. You can [download my resume][] or check out what I've been up to below.
 
 ---
+
+Amazon SDE Intern
+=================
+> Software Development Engineer Intern at Amazon in Seattle, WA. Developing a Eclipse plugin under Items and Offers Pipeline team.
 
 [Metrocam][]
 ============
