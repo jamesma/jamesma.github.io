@@ -3,7 +3,7 @@ layout: post
 title: How I Traverse the Internet
 ---
 
-Here's the list of websites that I visit daily for my internet fix:
+Here's a list of websites that I visit daily for my internet fix:
 
 1. [Reddit][] - Social user-curated news website where posts get upvoted or downvoted by users.
 2. [Hacker News][] - A website very much like Reddit but content is focused specifically on hacking and startups.
