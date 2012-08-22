@@ -13,9 +13,9 @@ You can find me on [Twitter][], [Linkedin][] and [GitHub][]. You can [download m
 
 Amazon SDE Intern
 =================
-> Software Development Engineer Intern at Amazon in Seattle, WA. Developing a Eclipse plugin under Items and Offers Pipeline team.
+> Software Development Engineer Intern at [Amazon][] in Seattle, WA. Developed an Eclipse plugin for a proprietary data format.
 
-[Metrocam][]
+Metrocam
 ============
 
 > Windows Phone picture sharing application similar to [Instagram][] by me and my friends for our software engineering project. Built using Windows Phone SDK in C#.
@@ -34,5 +34,3 @@ Dealchan
 [Amazon]:				http://amazon.com/							"Amazon"
 
 [download my resume]:	/resume/jamesma_resume.pdf 					"Resume"
-
-[Metrocam]:				http://metrocam.cloudapp.net/				"Metrocam"
