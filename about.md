@@ -11,26 +11,32 @@ You can find me on [Twitter][], [Linkedin][] and [GitHub][]. You can [download m
 
 ---
 
+Purdue Maps - Android
+=====================
+> Location-based phone application for navigating around campus buildings. Provides search functionality for abbreviated campus names. You can install it on [Google Play][].
+
 Amazon SDE Intern
 =================
-> Software Development Engineer Intern at [Amazon][] in Seattle, WA. Developed an Eclipse plugin for a proprietary data format.
+> Software Development Engineer Intern at [Amazon][] in Seattle, WA. Developed an Eclipse plugin for a proprietary data format using [Xtext][] framework.
 
-Metrocam
-============
+Metrocam - Windows Phone
+========================
 
 > Windows Phone picture sharing application similar to [Instagram][] by me and my friends for our software engineering project. Built using Windows Phone SDK in C#.
 
-Dealchan
-========
+Dealchan - Website
+==================
 
->Deal aggregator website by me and my friends for our senior design project. Built using Ruby on Rails. Soon to be released.
+> Deal aggregator website by me and my friends for our senior design project. Built using Ruby on Rails.
 
 
 
-[Twitter]:				http://twitter.com/jamesmajunyan 			"Follow"
-[Linkedin]:				http://www.linkedin.com/in/junyanma 		"Connect"
-[GitHub]:				http://github.com/jamesma 					"Collaborate"
-[Instagram]:			http://instagr.am/							"Instagram"
-[Amazon]:				http://amazon.com/							"Amazon"
+[Twitter]:				http://twitter.com/jamesmajunyan 											"Follow"
+[Linkedin]:				http://www.linkedin.com/in/junyanma 										"Connect"
+[GitHub]:				http://github.com/jamesma 													"Collaborate"
+[Instagram]:			http://instagr.am/															"Instagram"
+[Google Play]:			http://play.google.com/store/apps/details?id=com.jamesma.purdue.maps 		"Google Play"
+[Amazon]:				http://amazon.com/															"Amazon"
+[Xtext]:				http://www.eclipse.org/Xtext/												"Xtext"
 
-[download my resume]:	/resume/jamesma_resume.pdf 					"Resume"
+[download my resume]:	/resume/jamesma_resume.pdf 													"Resume"
