@@ -5,3 +5,7 @@ paginate: 5
 
 server: true
 auto: true
+
+name: James Ma
+description: James Ma's Personal Website
+url: http://jamesma.info
