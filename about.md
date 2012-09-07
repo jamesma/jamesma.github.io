@@ -5,7 +5,7 @@ layout: about
 About Me
 ========
 
-I study Computer Science at Purdue University with a concentration in Software Engineering. I indulge myself in Mobile and Web application development.
+I study Computer Science at Purdue University with a concentration in Software Engineering. I indulge myself in Mobile and Web development. I'm a Mac-loving, Android-embracing, iPhone-drooling, UX/UI-appreciating kind of guy. I hope to be part of that next big software breakthrough.
 
 You can find me on [Twitter][], [Linkedin][] and [GitHub][]. You can [download my resume][] or check out what I've been up to below.
 
