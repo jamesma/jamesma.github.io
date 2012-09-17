@@ -200,6 +200,10 @@ article .post_title > a {
 	border-bottom: none;
 }
 
+article .post_url {
+	border-bottom: none;
+}
+
 article blockquote {
 	border-left: 10px solid #04BFBF;
 	padding-left: 20px;
