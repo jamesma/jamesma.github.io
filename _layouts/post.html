@@ -7,7 +7,11 @@ layout: base
 		<b>Posted on {{ page.date | date: "%B %e, %Y" }}</b>
 	</header>
 	<article>
-		<h1 class="post_title">{{ page.title }}</h1>
+		{% if page.link %}
+			<h1 class="post_title"><a href="{{ page.link }}">{{ page.title }}</a></h1>
+		{% else %}
+			<h1 class="post_title">{{ page.title }}</h1>
+		{% endif %}
 		{{ content }}
 	</article>
 	<footer>
