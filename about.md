@@ -9,6 +9,8 @@ Hey there, I'm James Ma. I study Computer Science at Purdue University with a co
 
 You can find me on [Twitter][], [Linkedin][] and [GitHub][]. You can [download my resume][] or check out what I've been up to below.
 
+This website's design is inspired by the [Svbtle network](http://svbtle.com/) by [Dustin Curtis](http://dcurt.is/).
+
 ---
 
 Purdue Maps - Android
@@ -31,12 +33,15 @@ Dealchan - Website
 
 
 
-[Twitter]:				http://twitter.com/jamesmajunyan 											"Follow"
-[Linkedin]:				http://www.linkedin.com/in/junyanma 										"Connect"
-[GitHub]:				http://github.com/jamesma 													"Collaborate"
-[Instagram]:			http://instagr.am/															"Instagram"
-[Google Play]:			http://play.google.com/store/apps/details?id=com.jamesma.purdue.maps 		"Google Play"
-[Amazon]:				http://amazon.com/															"Amazon"
-[Xtext]:				http://www.eclipse.org/Xtext/												"Xtext"
+[Twitter]:          http://twitter.com/jamesmajunyan "Follow"
+[Linkedin]:         http://www.linkedin.com/in/junyanma "Connect"
+[GitHub]:           http://github.com/jamesma "Collaborate"
+[Instagram]:        http://instagr.am/ "Instagram"
+[Google Play]:      http://play.google.com/store/apps/details?id=com.jamesma.purdue.maps "Google Play"
+[Amazon]:           http://amazon.com/ "Amazon"
+[Xtext]:            http://www.eclipse.org/Xtext/ "Xtext"
 
-[download my resume]:	http://jamesma.info/resume/jamesma_resume.pdf 								"Resume"
+[Svbtle network]:   http://svbtle.com/ "Svbtle network"
+[Dustin Curtis]:    http://dcurt.is/ "Dustin Curtis"
+
+[download my resume]:	http://jamesma.info/resume/jamesma_resume.pdf "Resume"
