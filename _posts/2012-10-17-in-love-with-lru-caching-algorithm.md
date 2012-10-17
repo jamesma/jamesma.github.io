@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I think I'm in love with LRU Caching Algorithm
+title: I think I'm in love with LRU
 link: http://tech.dropbox.com/2012/10/caching-in-theory-and-practice/
 ---
 
