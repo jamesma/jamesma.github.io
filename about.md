@@ -13,6 +13,10 @@ This website's design is inspired by the [Svbtle network](http://svbtle.com/) by
 
 ---
 
+PurdueFoodFinder - Website
+==========================
+> A [Rails web app hosted on Heroku][] that lets you find local events with free food or giveaways around Purdue's campus. Live off free food as much as you can.
+
 Purdue Maps - Android
 =====================
 > Location-based phone application for navigating around campus buildings. Provides search functionality for abbreviated campus names. You can install it on [Google Play][].
@@ -23,12 +27,10 @@ Amazon SDE Intern
 
 Metrocam - Windows Phone
 ========================
-
 > Windows Phone picture sharing application similar to [Instagram][] by me and my friends for our software engineering project. Built using Windows Phone SDK in C#.
 
 Dealchan - Website
 ==================
-
 > Deal aggregator website by me and my friends for our senior design project. Built using Ruby on Rails.
 
 
@@ -45,3 +47,5 @@ Dealchan - Website
 [Dustin Curtis]:    http://dcurt.is/ "Dustin Curtis"
 
 [download my resume]:	http://jamesma.info/resume/jamesma_resume.pdf "Resume"
+
+[Rails web app hosted on Heroku]: http://purduefoodfinder.herokuapp.com/ "PurdueFoodFinder"
