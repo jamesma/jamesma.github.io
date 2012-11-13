@@ -31,7 +31,7 @@ Metrocam - Windows Phone
 
 Dealchan - Website
 ==================
-> Deal aggregator website by me and my friends for our senior design project. Built using Ruby on Rails.
+> Deal aggregator website by me and my friends for our senior design project. Built using Ruby on Rails and concepts of [NLP][] and web scraping.
 
 
 
@@ -42,6 +42,7 @@ Dealchan - Website
 [Google Play]:      http://play.google.com/store/apps/details?id=com.jamesma.purdue.maps "Google Play"
 [Amazon]:           http://amazon.com/ "Amazon"
 [Xtext]:            http://www.eclipse.org/Xtext/ "Xtext"
+[NLP]:              http://en.wikipedia.org/wiki/Natural_language_processing "Natural Language Processing"
 
 [Svbtle network]:   http://svbtle.com/ "Svbtle network"
 [Dustin Curtis]:    http://dcurt.is/ "Dustin Curtis"
