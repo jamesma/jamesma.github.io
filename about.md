@@ -5,7 +5,7 @@ layout: about
 About Me
 ========
 
-Hey there, I'm James Ma. I study Computer Science at Purdue University with a concentration in Software Engineering. I'm a Mac-loving, Android-embracing, iPhone-drooling, UX/UI-appreciating kind of guy. I hope to be part of that next big software breakthrough and I frequently indulge myself in Mobile and Web development.
+Hey there, I'm James Ma. I graduated from Computer Science at Purdue University with a concentration in Software Engineering. I'm a Mac-loving, Android-embracing, iPhone-drooling, UX/UI-appreciating kind of guy. I hope to be part of that next big software breakthrough and I frequently indulge myself in Mobile and Web development.
 
 You can find me on [Twitter][], [Linkedin][] and [GitHub][]. You can [download my resume][] or check out what I've been up to below.
 
