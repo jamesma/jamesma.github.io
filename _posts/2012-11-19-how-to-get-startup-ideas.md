@@ -10,6 +10,4 @@ After reading [Paul Graham][]'s essay, I wholeheartedly agree with his methodolo
 
 > A good way to trick yourself into noticing ideas is to work on projects that seem like they'd be cool. If you do that, you'll naturally tend to build things that are missing. It wouldn't seem as interesting to build something that already existed.
 
-Looks like I'm already on the right track on this one. I'm going to take his _many_ advices and continuing building/hacking up interesting stuff. Stay tuned.
-
 [Paul Graham]: http://paulgraham.com/index.html "PG"

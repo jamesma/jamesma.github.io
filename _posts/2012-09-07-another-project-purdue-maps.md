@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Project - Purdue Maps
+title: Android App - Purdue Maps
 ---
 
 After my internship at Amazon, I became even more comfortable with Eclipse IDE and Java programming so I decided to make some Android Apps to enhance my OOP skills. Browsing through Google Play's directory of apps led to me believe there is a shortage (and a need) of a Purdue campus finder very much like the one that is available on [iOS][]. So, I present to you [Purdue Maps][]:
@@ -15,5 +15,5 @@ Very interesting! So I navigated to that [address][] and found myself looking at
 
 [iOS]: 					http://itunes.apple.com/us/app/purdue/id371741254?mt=8 						"Purdue iOS app"
 [Purdue Maps]: 			http://play.google.com/store/apps/details?id=com.jamesma.purdue.maps 		"Purdue Maps"
-[Purdue's campus map]: 	http://www.purdue.edu/campus_map/											"Purdue campus map"	
+[Purdue's campus map]: 	http://www.purdue.edu/campus_map/											"Purdue campus map"
 [address]:				http://www.purdue.edu/campus_map/xml/MarkersAll5.xml 						"Jackpot"

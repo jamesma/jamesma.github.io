@@ -5,13 +5,17 @@ layout: about
 About Me
 ========
 
-Hey there, I'm James Ma. I graduated from Purdue University in Computer Science (with concentration in Software Engineering). I'm a Mac-loving, Android-embracing, iPhone-drooling, UX/UI-appreciating kind of guy. I hope to be part of that next big software breakthrough and I frequently indulge myself in Mobile and Web development.
+Hey there, I'm James Ma. I graduated from Purdue University in Computer Science (with concentration in Software Engineering). I'm a Mac-loving, Android-embracing, UX/UI-appreciating kind of guy.
 
 You can find me on [Twitter][], [Linkedin][] and [GitHub][]. You can [download my resume][] or check out what I've been up to below.
 
 This website's design is inspired by the [Svbtle network](http://svbtle.com/) by [Dustin Curtis](http://dcurt.is/).
 
 ---
+
+Amazon SDE
+==========
+> Software Development Engineer at Amazon in Seattle, WA. Working in the eCommerce Platform Services team.
 
 [PurdueFoodFinder][]
 ====================
@@ -23,7 +27,7 @@ This website's design is inspired by the [Svbtle network](http://svbtle.com/) by
 
 Amazon SDE Intern
 =================
-> Software Development Engineer Intern at Amazon in Seattle, WA. Working in the Items and Offers Pipeline team. Developed an Eclipse plugin for a proprietary data format using [Xtext][] framework.
+> Software Development Engineer Intern at Amazon in Seattle, WA. Worked in the eCommerce Platform Services team. Developed an Eclipse plugin for a proprietary data format using [Xtext][] framework.
 
 Metrocam
 ========
