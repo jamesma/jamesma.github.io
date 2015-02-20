@@ -13,8 +13,12 @@ This website's design is inspired by the [Svbtle network](http://svbtle.com/) by
 
 ---
 
-Amazon SDE
-==========
+Amazon SDE 2
+============
+> Software Development Engineer at Amazon in Seattle, WA. Working in the eCommerce Foundational Technologies team.
+
+Amazon SDE 1
+============
 > Software Development Engineer at Amazon in Seattle, WA. Working in the eCommerce Platform Services team.
 
 [PurdueFoodFinder][]
