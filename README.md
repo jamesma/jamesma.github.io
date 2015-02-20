@@ -1,4 +1,4 @@
-jamesma.github.com / jamesma.info
+jamesma.github.io / jamesma.info
 =================================
 
 My personal website, hosted with [Jekyll](http://github.com/mojombo/jekyll) on [GitHub Pages](http://pages.github.com/) for [jamesma.info](http://jamesma.info).
