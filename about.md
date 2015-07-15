@@ -5,7 +5,7 @@ layout: about
 About Me
 ========
 
-Hey there, I'm James Ma. I graduated from Purdue University in Computer Science (with concentration in Software Engineering). I'm a Mac-loving, Android-embracing, UX/UI-appreciating kind of guy.
+Hey there, I'm James Ma. I graduated from Purdue University in Computer Science (with a concentration in Software Engineering and a minor in Psychology). I'm a Mac-loving, Android-embracing, UX/UI-appreciating kind of guy.
 
 You can find me on [Twitter][], [Linkedin][] and [GitHub][]. You can [download my resume][] or check out what I've been up to below.
 
@@ -13,13 +13,17 @@ This website's design is inspired by the [Svbtle network](http://svbtle.com/) by
 
 ---
 
+PocketMath Software Engineer (Current)
+======================================
+> Software Engineer at PocketMath in Singapore. Working in the Real-time bidding back-end systems that processes up to 40 billion impressions per day, fulfilling requests within 100 ms (including network round-trip time).
+
 Amazon SDE 2
 ============
-> Software Development Engineer at Amazon in Seattle, WA. Working in the eCommerce Foundational Technologies team.
+> Software Development Engineer at Amazon in Seattle, WA. Worked in the eCommerce Foundational Technologies team.
 
 Amazon SDE 1
 ============
-> Software Development Engineer at Amazon in Seattle, WA. Working in the eCommerce Platform Services team.
+> Software Development Engineer at Amazon in Seattle, WA. Worked in the eCommerce Platform Services team.
 
 [PurdueFoodFinder][]
 ====================
