@@ -12,11 +12,9 @@ Here's a list of websites that I visit daily for my internet fix:
 
 I use [Flipboard][] on my iPhone4 to subscribe to "Tech" news and I save unread articles to [Pocket][] to read it later either on my iPhone or Macbook.
 
-
-
-[Reddit]:			http://www.reddit.com/								"Reddit"
-[Hacker News]:		http://news.ycombinator.com/news 					"Hacker News"
-[Techcrunch]:		http://techcrunch.com/ 								"Techcrunch"
-[GitHub]:			http://github.com/									"GitHub"
-[Flipboard]:		http://flipboard.com/								"Flipboard"
-[Pocket]:			http://getpocket.com/								"Pocket"
+[Reddit]: http://www.reddit.com/ "Reddit"
+[Hacker News]: http://news.ycombinator.com/news "Hacker News"
+[Techcrunch]: http://techcrunch.com/ "Techcrunch"
+[GitHub]: http://github.com/ "GitHub"
+[Flipboard]: http://flipboard.com/ "Flipboard"
+[Pocket]: http://getpocket.com/ "Pocket"

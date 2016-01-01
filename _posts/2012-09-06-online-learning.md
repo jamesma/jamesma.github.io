@@ -12,7 +12,7 @@ I'm quite amazed at the selection of computer science courses that are available
 3. [Software Engineering for SaaS][] - UC Berkeley
 4. [Networks: Friends, Money, and Bytes][] - Princeton
 
-There are 120 courses availables currently and increasing. I highly recommend you to check it out.
+There are 120 courses available currently and increasing. I highly recommend you to check it out.
 
 [this TED talk]: http://www.ted.com/talks/daphne_koller_what_we_re_learning_from_online_education.html "TED talk"
 [Coursera]: http://www.coursera.org "Coursera"

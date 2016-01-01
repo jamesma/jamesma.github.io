@@ -8,11 +8,10 @@ layout: base
 	</header>
 	<article>
 		{% if page.link %}
-			<h1 class="post_title"><a href="{{ page.link }}">{{ page.title }}</a></h1>
+		<h1 class="post_title"><a href="{{ page.link }}">{{ page.title }}</a></h1>
 		{% else %}
-			<h1 class="post_title">{{ page.title }}</h1>
-		{% endif %}
-		{{ content }}
+		<h1 class="post_title">{{ page.title }}</h1>
+		{% endif %} {{ content }}
 	</article>
 	<footer>
 		<a class="page_button" href="/">Back to blog</a>

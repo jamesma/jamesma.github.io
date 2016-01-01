@@ -1,10 +1,9 @@
-pygments: true
+highlighter: pygments
 markdown: rdiscount
 permalink: pretty
-paginate: 5
 
-server: true
-auto: true
+gems: [jekyll-paginate]
+paginate: 5
 
 name: James Ma
 description: James Ma's Personal Website

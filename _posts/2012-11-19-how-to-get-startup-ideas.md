@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Startup Ideas
-link: http://paulgraham.com/startupideas.html
+link: 'http://paulgraham.com/startupideas.html'
 ---
 
 > Live in the future and build what seems interesting.
