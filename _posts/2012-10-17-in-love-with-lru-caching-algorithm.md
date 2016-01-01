@@ -4,7 +4,7 @@ title: "I think I'm in love with LRU"
 link: 'http://tech.dropbox.com/2012/10/caching-in-theory-and-practice/'
 ---
 
-Dropbox's [engineering blog][] details the theory and rational behind the caching algorithm that they've chosen for their mobile client. It's a very insightful read that compares between Most Recently Used (MRU), Least Recently Used (LRU) and Least Frequently Used (LFU).
+Dropbox's [engineering blog](http://tech.dropbox.com/2012/10/caching-in-theory-and-practice/) details the theory and rational behind the caching algorithm that they've chosen for their mobile client. It's a very insightful read that compares between Most Recently Used (MRU), Least Recently Used (LRU) and Least Frequently Used (LFU).
 
 Here's my implementation of LRU caching in Java:
 
@@ -80,5 +80,3 @@ public class LRUCache<K, T> {
   }
 }
 ```
-
-[engineering blog]: http://tech.dropbox.com/2012/10/caching-in-theory-and-practice/ "Dropbox Engineering Blog"
